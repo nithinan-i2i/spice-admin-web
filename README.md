@@ -1,5 +1,7 @@
 # SPICE-Opensource
 
+Stupid Badges:
+
  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=medtronic-labs_spice-admin-web&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=medtronic-labs_spice-admin-web)  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=medtronic-labs_spice-admin-web&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=medtronic-labs_spice-admin-web)  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=medtronic-labs_spice-admin-web&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=medtronic-labs_spice-admin-web)  [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=medtronic-labs_spice-admin-web&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=medtronic-labs_spice-admin-web) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=medtronic-labs_spice-admin-web&metric=bugs)](https://sonarcloud.io/summary/new_code?id=medtronic-labs_spice-admin-web)
 
 This is the client side for the Spice application to help track hypertensive and diabetic patients across a population.
