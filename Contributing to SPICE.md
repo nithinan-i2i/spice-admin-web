@@ -1,4 +1,4 @@
-# Contributing to OpenMRS
+# Contributing to SPICE
 
 Thank you for considering contributing to the SPICE. We appreciate your interest in improving our project. This document outlines the guidelines and information you need to know to contribute effectively.
 
